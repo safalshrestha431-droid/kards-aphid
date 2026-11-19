@@ -187,4 +187,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*KARDS - The WW2 Card Game · Updated 2026-11-18 · Shared under the MIT License*
+*KARDS - The WW2 Card Game · Updated 2026-11-19 · Shared under the MIT License*
